@@ -11,7 +11,7 @@ import moment from 'moment-timezone'
 
 //BETA: If you want to avoid typing the number that will be the bot in the console, add it here:
 //Only applies for option 2 (being a bot with 8-digit text code)
-global.botNumber = '' //Example: 255734980103
+global.botNumber = '94710927228' //Example: 255734980103
 
 //*─────────────────────────────*
 
